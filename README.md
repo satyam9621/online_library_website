@@ -25,5 +25,3 @@ Login Details for admin : 
 Username: admin
 Password:Test@123
 
-
-For More Details --- https://phpgurukul.com/online-library-management-system/
